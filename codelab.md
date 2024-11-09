@@ -1,0 +1,1 @@
+author: Álvaro Caro Fernández summary: Realizar la adquisición forense de una memoria USB empleando las siguientes herramientas: FTK Imager, GuyImager y dd id: Actividad 05 categories: codelab,markdown environments: Web status: Publicado
