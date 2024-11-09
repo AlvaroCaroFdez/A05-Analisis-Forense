@@ -41,3 +41,6 @@ Esta herramienta genera un fichero .info donde se encuentran los hash generados.
 
 ## DD
 El comando 'dd' (Data Duplicator o Dataset Definition) es una herramienta de línea de comandos en sistemas Unix-like, utilizada para crear copias bit a bit de dispositivos de almacenamiento. Es ampliamente usada en la informática forense para adquirir imágenes de discos duros, unidades USB y otros dispositivos, preservando la integridad de los datos. Ofrece flexibilidad y control detallado sobre el proceso de copia, incluyendo la capacidad de calcular hashes para verificar la integridad de la imagen. Es una herramienta esencial para investigaciones forenses debido a su precisión y eficiencia.
+
+![DD-1](/img/Comando.png)
+Captura de los 3 comandos utilizados para obtener la imagen del USB, y luego los diferentes hash, que se muestran por línea de comandos
