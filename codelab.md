@@ -34,10 +34,10 @@ Resumen de la información de la adquisición
 
 Guymager es una herramienta forense que crea imágenes de dispositivos de almacenamiento digital, como discos duros y unidades USB. Ofrece una interfaz gráfica intuitiva y soporta varios formatos de imagen, incluyendo EWF y AFF. Permite la generación de hashes para verificar la integridad de los datos y mantiene registros detallados del proceso de imagenación. Es ideal para investigaciones forenses debido a su eficiencia y flexibilidad.
 
-![GuyImager-1](/img/inicio-adquisición-guy.png)
+![GuyImager-1](/img/inicio-adquisicion-guy.png)
 Imagen del inicio del proceso de adquisición con la herramienta GuyImager
 
-![GuyImager-1](/img/final-adquisición-guy.png)
+![GuyImager-1](/img/final-adquisicion-guy.png)
 Resultado final de la adquisición con la herramienta GuyImager
 
 Esta herramienta genera un fichero .info donde se encuentran los hash generados.
